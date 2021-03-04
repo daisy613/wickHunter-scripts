@@ -1,4 +1,4 @@
-# Daisy's WickHunter script collection
+# Daisy's WickHunter Helper Scripts
 
 ![](https://i.imgur.com/YSjTO9j.png)
 
