@@ -13,7 +13,8 @@ Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
  Use AccountData script in conjunction with the tracker for automatic imports.
  
 ## In Progress
-- SchedSettings - will pause WickHunter bot and change settings based on the schedule defined by user.
+- _SchedSettings_ - will pause WickHunter bot and change settings based on the schedule defined by user.
+- _MarginAlarm_ - alerts user via Discord when a defined Margin Ratio threshold is reached.
 
 ## Tips
 - BTC: 1PV97ppRdWeXw4TBXddAMNmwnknU1m37t5
