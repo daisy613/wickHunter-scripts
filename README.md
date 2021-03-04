@@ -1,4 +1,4 @@
-# Daisy's WickHunter helper scripts
+# Daisy's [WickHunter](https://github.com/WickHunter/Wick-Hunter) helper scripts
 
 ![](https://i.imgur.com/YSjTO9j.png)
 
@@ -13,5 +13,9 @@ Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
  Use AccountData script in conjunction with the tracker for automatic imports.
  
 ## In Progress
-
 - SchedSettings - will pause WickHunter bot and change settings based on the schedule defined by user.
+
+## Tips
+- BTC: 1PV97ppRdWeXw4TBXddAMNmwnknU1m37t5
+- USDT/ETH (ERC20): 0x56b2239c6bde5dc1d155b98867e839ac502f01ad
+- USDT (TRC20): TNuwZebdZmoDxrJRxUbyqzG48H4KRDR7wB (if sending from Binance account - allows for less fees)
