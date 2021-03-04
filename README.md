@@ -1,4 +1,6 @@
-# wickHunter-scripts
+# Daisy's WickHunter script collection
+
+![](https://i.imgur.com/YSjTO9j.png)
 
 - [AccountData](https://github.com/daisy613/accountData) - continuously downloads all Binance/Bybit income history from multiple accounts into a sqLite db.
 Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
