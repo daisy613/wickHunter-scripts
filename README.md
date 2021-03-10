@@ -7,7 +7,7 @@ Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
 
 - [AutoTransfer](https://github.com/daisy613/autoTransfer) -  continuously transfers a percentage of profits automatically on a Binance Futures account, from Futures to Spot wallet, at a predefined interval.
 
-- [WHSettings](https://github.com/daisy613/whSettings) - allows user to export or import WickHunter settings.
+- [WHSettings](https://github.com/daisy613/whSettings) - allows user to export or import WickHunter settings or coins.
 
 - [Crypto-PNL-Tracker](https://github.com/drksheer/Crypto-PNL-Tracker) - generic crypto PNL tracker which can work with Binance, Bybit or your own data.
  Use AccountData script in conjunction with the tracker for automatic imports.
