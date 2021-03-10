@@ -13,10 +13,20 @@ Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
  Use AccountData script in conjunction with the tracker for automatic imports.
  
 ## In Progress
-- _SchedSettings_ - will pause WickHunter bot and change settings based on the schedule defined by user.
-- _MarginAlarm_ - alerts user via Discord when a defined Margin Ratio threshold is reached.
+- _AutoSettings_ 
+  - will pause the bot and change settings on schedule.
+  - margin-based settings profile switch to safer settings.
+- _MarginAlarm_ - alerts user via Discord when a defined Margin Ratio threshold is reached, possibly other triggers?.
+- _AutoTransfer_
+  - add reverse transfer feature that activates when Margin Ratio reaches a defined threshold.
+  - add option to specify transfer in USD instead of percentage.
+- _AutoCoins_
+  - filter coins based on market cap (exclude any coin below a certain threshold)
+  - coin age (exclude any coins below a certain age)
+  - Near ATH (how to define?)
+  - 24h (or longer) liquidations volume, specify max average liquidation volume.
 
 ## Tips
 - BTC: 1PV97ppRdWeXw4TBXddAMNmwnknU1m37t5
+- USDT (TRC20): TNuwZebdZmoDxrJRxUbyqzG48H4KRDR7wB
 - USDT/ETH (ERC20): 0x56b2239c6bde5dc1d155b98867e839ac502f01ad
-- USDT (TRC20): TNuwZebdZmoDxrJRxUbyqzG48H4KRDR7wB (if sending from Binance account - allows for less fees)
