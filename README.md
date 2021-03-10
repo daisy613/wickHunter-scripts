@@ -21,6 +21,7 @@ Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
 - _AutoTransfer_
   - add reverse transfer feature that activates when Margin Ratio reaches a defined threshold.
   - add option to specify transfer in USD instead of percentage.
+  - option to transfer from Spot to external wallet.
 - _AutoCoins_
   - filter coins based on market cap (exclude any coin below a certain threshold)
   - coin age (exclude any coins below a certain age)
