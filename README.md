@@ -17,7 +17,7 @@ Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
   - will pause the bot and change settings on schedule.
   - margin-based settings profile switch to safer settings.
 - _MarginAlarm_ 
-  - alerts user via Discord when a defined Margin Ratio threshold is reached, possibly other triggers?.
+  - alerts user via Discord when a defined Margin Ratio threshold is reached, possibly other triggers?
 - _AutoTransfer_
   - add reverse transfer feature that activates when Margin Ratio reaches a defined threshold.
   - add option to specify transfer in USD instead of percentage.
