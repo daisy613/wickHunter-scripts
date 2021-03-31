@@ -10,6 +10,8 @@ Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
 - [Crypto-PNL-Tracker](https://github.com/drksheer/Crypto-PNL-Tracker) - generic crypto PNL tracker which can work with Binance, Bybit or your own data.
  Use AccountData script in conjunction with the tracker for automatic imports.
  
+- [IP Proxy Instructions](https://gist.github.com/daisy613/ea803117a3d33418a3a03dbeb0553be3#file-proxy-ip-instructions-md) - Using proxy IPs to make your bot appear to be running from another country or using multiple instances of the bot on different IPs to prevent running up against API limits at the exchange.
+ 
 ## In Progress
 - _AutoSettings_ 
   - will pause the bot and change settings on schedule.
