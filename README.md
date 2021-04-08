@@ -1,9 +1,11 @@
-# :blossom: Daisy's WickHunter Helper Scripts
+# :blossom: Daisy's Helper Scripts
 
 - [AccountData](https://github.com/daisy613/accountData) - continuously downloads all Binance/Bybit income history from multiple accounts into a sqLite db.
-Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
+Can be used in tandem with Darksheer's [Crypto-PNL-Tracker](https://github.com/drksheer/Crypto-PNL-Tracker) or on its own.
 
-- [AutoTransfer](https://github.com/daisy613/autoTransfer) -  continuously transfers a percentage of profits automatically on a Binance Futures account, from Futures to Spot wallet, at a predefined interval.
+- [AutoTransfer](https://github.com/daisy613/autoTransfer) - transfers a percentage of profits automatically, from Binance Futures to Spot wallet, at a predefined interval.
+
+- [AutoCoins](https://github.com/daisy613/autoCoins) - dynamically controls the coin list in WickHunter bot to blacklist/un-blacklist coins based on the following conditions: 1hr price change percentage, proximity to All Time High and minimum coin age.
 
 - [WHSettings](https://github.com/daisy613/whSettings) - allows user to export or import WickHunter settings or coins.
 
@@ -22,11 +24,6 @@ Can be used in tandem with Darksheer's Crypto-PNL-Tracker or on its own.
   - add reverse transfer feature that activates when Margin Ratio reaches a defined threshold.
   - add option to specify transfer in USD instead of percentage.
   - option to transfer from Spot to external wallet.
-- _AutoCoins_
-  - filter coins based on market cap (exclude any coin below a certain threshold)
-  - coin age (exclude any coins below a certain age)
-  - Near ATH (how to define?)
-  - 24h (or longer) liquidations volume, specify max average liquidation volume.
 
 ## Tips
 - USDT (TRC20): TNuwZebdZmoDxrJRxUbyqzG48H4KRDR7wB
