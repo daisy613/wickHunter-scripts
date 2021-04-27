@@ -26,6 +26,7 @@ Can be used in tandem with Darksheer's [Crypto-PNL-Tracker](https://github.com/d
   - option to transfer from Spot to external wallet.
 
 ## Tips
+![](https://i.imgur.com/M46tl6t.png)
 - USDT (TRC20): TNuwZebdZmoDxrJRxUbyqzG48H4KRDR7wB
 - USDT/ETH (ERC20): 0x56b2239c6bde5dc1d155b98867e839ac502f01ad
 - BTC: 1PV97ppRdWeXw4TBXddAMNmwnknU1m37t5
