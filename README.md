@@ -25,8 +25,6 @@ Can be used in tandem with Darksheer's [Crypto-PNL-Tracker](https://github.com/d
   - add option to specify transfer in USD instead of percentage.
   - option to transfer from Spot to external wallet.
 
-## Tips
-![](https://i.imgur.com/M46tl6t.png)
-- USDT (TRC20): TNuwZebdZmoDxrJRxUbyqzG48H4KRDR7wB
-- USDT/ETH (ERC20): 0x56b2239c6bde5dc1d155b98867e839ac502f01ad
-- BTC: 1PV97ppRdWeXw4TBXddAMNmwnknU1m37t5
+## Donations/Tips:
+- USDT (TRC20): `TWhjv6ita4Y1i2xevTjxgB6g92yZLpkTwv`
+- BTC: `13nsGbe7A7K1SR2KpJHRPH9eArKf823T9o`
